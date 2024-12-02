@@ -15,43 +15,43 @@ To provide a smooth and engaging experience, the game collects and stores data u
 a) Account Information
 
 When you create an account, we collect:
-	•	Email address (used for login and account recovery).
-	•	Username or display name (optional, for personalization).
+- Email address (used for login and account recovery).
+- Username or display name (optional, for personalization).
 
 b) Gameplay Data
 
 The game collects data related to your gameplay, including:
-	•	Progress and achievements to save your progress.
-	•	Preferences and settings to customize your experience.
+- Progress and achievements to save your progress.
+- Preferences and settings to customize your experience.
 
 c) Automatically Collected Data
 
 Firebase may automatically collect:
-	•	Device Information: Basic details like your device type, operating system, and app version for performance optimization.
-	•	Crash Reports: To diagnose and fix technical issues.
-	•	Analytics Data: Aggregate data to improve game design and user experience.
+- Device Information: Basic details like your device type, operating system, and app version for performance optimization.
+- Crash Reports: To diagnose and fix technical issues.
+- Analytics Data: Aggregate data to improve game design and user experience.
 
 3. How We Use Your Data
 
 Your data is used to:
-	•	Save your progress and enable account-based features.
-	•	Improve gameplay and educational elements.
-	•	Respond to technical issues or support requests.
-	•	Analyze gameplay trends to enhance user experience.
+- Save your progress and enable account-based features.
+- Improve gameplay and educational elements.
+- Respond to technical issues or support requests.
+- Analyze gameplay trends to enhance user experience.
 
 We do not use your data for advertising or sell it to third parties.
 
 4. Data Sharing
 
 We value your privacy and limit sharing your data as follows:
-	•	Firebase: Data is stored securely on Firebase, a Google-operated platform.
-	•	Service Providers: We may share limited data with trusted partners to maintain and enhance the game (e.g., analytics and crash diagnostics).
+- Firebase: Data is stored securely on Firebase, a Google-operated platform.
+- Service Providers: We may share limited data with trusted partners to maintain and enhance the game (e.g., analytics and crash diagnostics).
 
 5. Parental Guidance and Children’s Privacy
 
 While Artist Defenders is suitable for all ages, children should play under parental guidance. We comply with child privacy laws as follows:
-	•	Account Creation: Users under 13 must have parental consent to create an account.
-	•	Restricted Data Collection: We do not collect sensitive data beyond what is necessary to enable gameplay.
+- Account Creation: Users under 13 must have parental consent to create an account.
+- Restricted Data Collection: We do not collect sensitive data beyond what is necessary to enable gameplay.
 
 6. Data Security
 
